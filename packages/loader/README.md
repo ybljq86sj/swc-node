@@ -39,3 +39,5 @@
 ## Differences between [swc-loader](https://github.com/swc-project/swc-loader)
 
 This `loader` is compatible with `tsconfig.json` and `compilerOptions` in `tsconfig.json`.
+
+<!-- Auto-update: 2025-10-18T12:37:11.668258 -->
